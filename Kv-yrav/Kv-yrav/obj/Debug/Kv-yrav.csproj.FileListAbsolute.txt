@@ -1,0 +1,16 @@
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\bin\Debug\Kv-yrav.exe.config
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\bin\Debug\Kv-yrav.exe
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\bin\Debug\Kv-yrav.pdb
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.csproj.AssemblyReference.cache
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.csproj.SuggestedBindingRedirects.cache
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\MainWindow.g.cs
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\App.g.cs
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav_MarkupCompile.cache
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav_MarkupCompile.lref
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\MainWindow.baml
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.g.resources
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv_yrav.Properties.Resources.resources
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.csproj.GenerateResource.cache
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.csproj.CoreCompileInputs.cache
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.exe
+C:\Users\Comp0718\source\repos\Kv-yrav\Kv-yrav\obj\Debug\Kv-yrav.pdb
